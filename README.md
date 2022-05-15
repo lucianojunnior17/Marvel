@@ -24,3 +24,5 @@ Projeto feito na dev week de 2022
 
 ✔️ CSS3 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  
+  Feito por Luciano Lima Jr.
